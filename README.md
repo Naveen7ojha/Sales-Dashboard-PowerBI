@@ -1,48 +1,60 @@
-📌 Project Overview – Sales Dashboard in Power BI
-This project is a dynamic and fully interactive Sales Dashboard built using Power BI, aimed at providing a complete visual overview of a company’s sales performance.
+🚀 Power BI Sales Dashboard – Complete Business Insight at a Glance
+📈 What Is This Project?
+A visually-rich and interactive Sales Dashboard built in Power BI, designed to transform raw sales data into actionable business insights.
 
-By leveraging sample sales data, the dashboard allows users to:
+Whether you're a business analyst, a sales manager, or a recruiter evaluating skills — this dashboard gives you everything at a glance.
 
-Track sales and revenue trends
+🎯 Key Business Goals Solved
+✅ Track Total Sales, Revenue, Margin, and Orders
+✅ Identify top-performing products and high-margin items
+✅ Monitor sales trends over time (daily, monthly, quarterly)
+✅ Drill down data using interactive slicers and filters
 
-Identify high-margin products
+📊 Dashboard Features
+📌 Feature	🔍 Description
+KPI Cards	Real-time view of key performance indicators
+Bar Chart	Compare sales/margins by product or category
+Line Chart	Visualize revenue trends across time periods
+Pie Chart	Breakdown of sales/revenue share
+Matrix/Table	Detailed view of product-level performance
+Slicers	Filter data dynamically by product/date/region
 
-Monitor total orders and quantity sold
+🧰 Tools & Technologies Used
+Power BI Desktop
 
-Compare performance across categories, products, and time periods
+Power Query Editor – Data cleaning & transformation
 
-It helps business stakeholders and decision-makers get actionable insights at a glance, without manually digging through raw data or spreadsheets.
+DAX (Data Analysis Expressions) – Calculated measures
 
-✅ Key Features
-🎯 KPI Cards – Instantly see Total Sales, Total Revenue, Total Margin, and Total Orders
+Excel Sample Sales Data – (From Kaggle or mock data)
 
-📊 Charts & Visuals – Includes Bar Charts, Line Graphs, Pie Charts, and Matrix Tables
+📁 What's Inside This Repository
+Sales_Dashboard.pbix – Full Power BI Dashboard
 
-🧭 Interactivity – Easily filter data by product, date, region using slicers
+dashboard.png – Image preview of the dashboard
 
-🛠️ Data Model – Cleaned and transformed using Power Query, and insights generated using DAX
+sales_data.xlsx – (Optional sample dataset if uploaded)
 
-📁 Well-Organized Repository – Includes .pbix file, dataset, and dashboard preview image
+README.md – Project documentation and usage guide
 
-🧠 Who is it for?
-This project is ideal for:
+💼 Perfect For:
+Business Analysts – Showcase your Power BI skills
 
-Business Analysts looking to practice Power BI skills
+Sales Teams – Monitor performance & make decisions
 
-Sales Teams wanting to monitor performance quickly
+Students/Learners – Practice real-world dashboards
 
-Recruiters reviewing dashboards for portfolio evaluation
+Hiring Managers – Evaluate dashboard capabilities in one look
 
-Learners exploring data visualization with real datasets
+🧠 Why This Matters
+Power BI dashboards are essential for making data-driven decisions. This project showcases:
 
-📂 What's Included in the Repo
-✅ Sales_Dashboard.pbix – Power BI project file
+End-to-end dashboard creation
 
-✅ dashboard.png – Image preview of the dashboard
+Real-time visual reporting
 
-✅ sales_data.xlsx – Sample dataset (if uploaded)
+Clean user interface with actionable insights
 
-✅ README.md – Complete documentation and project details
-
-💡 Why this project matters
-Having the ability to turn raw sales data into clear, interactive, and decision-driving dashboards is one of the most valuable skills in data analytics. This project demonstrates the end-to-end lifecycle of a Power BI solution — from data cleaning to publishing.
+👤 Created By
+Naveen Ojha
+📎 LinkedIn • 💻 GitHub
