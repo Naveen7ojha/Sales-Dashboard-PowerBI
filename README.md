@@ -1,8 +1,9 @@
 # Sales-Dashboard-PowerBI
 Interactive Power BI dashboard to visualize and analyze sales performance, revenue, and margins.
+
 # 📊 Sales Dashboard – Power BI Project
 
-![Sales Dashboard](2bff7acb-17f0-4b86-96c5-3e7cda922775.png)
+![Sales Dashboard](dashboard.png)
 
 This project is a comprehensive and interactive **Sales Dashboard** built using **Power BI**. It enables users to monitor sales performance, analyze revenue trends, evaluate product margins, and track key business KPIs in one consolidated view.
 
@@ -56,7 +57,7 @@ The dashboard includes multiple interactive visuals:
 ## 🗂 Files Included
 
 - `Sales_Dashboard.pbix` – Main Power BI dashboard file
-- `2bff7acb-17f0-4b86-96c5-3e7cda922775.png` – Preview image of the dashboard
+- `dashboard.png` – Preview image of the dashboard
 - `sales_data.xlsx` (optional, if you're uploading the dataset)
 
 ---
@@ -65,35 +66,4 @@ The dashboard includes multiple interactive visuals:
 
 1. Clone or download the repository
 2. Open `Sales_Dashboard.pbix` in **Power BI Desktop**
-3. Explore and interact with the visuals
-4. Modify or update visuals/measures as needed
-
----
-
-## 📌 Use Case
-
-This dashboard is ideal for:
-- Business Analysts
-- Sales Managers
-- Data Enthusiasts
-- Anyone looking to track and optimize sales performance with visuals
-
----
-
-## 📷 Preview
-
-Here’s a snapshot of the dashboard:
-
-![Sales Dashboard Preview](2bff7acb-17f0-4b86-96c5-3e7cda922775.png)
-
----
-
-## 🙌 Author
-
-**Naveen Ojha**  
-[LinkedIn](#) • [GitHub](#)
-
----
-
-> 🔒 If this project uses sample data and no client data, you can keep it public. Add a license like MIT if needed.
-
+3. Explore and
