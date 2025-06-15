@@ -1,60 +1,86 @@
-🚀 Power BI Sales Dashboard – Complete Business Insight at a Glance
-📈 What Is This Project?
-A visually-rich and interactive Sales Dashboard built in Power BI, designed to transform raw sales data into actionable business insights.
+# 📊 Sales Dashboard – Power BI Project
 
-Whether you're a business analyst, a sales manager, or a recruiter evaluating skills — this dashboard gives you everything at a glance.
+An interactive and visually compelling **Sales Dashboard** built using **Power BI**, designed to analyze and present sales insights through intuitive charts, KPIs, and filters.
 
-🎯 Key Business Goals Solved
-✅ Track Total Sales, Revenue, Margin, and Orders
-✅ Identify top-performing products and high-margin items
-✅ Monitor sales trends over time (daily, monthly, quarterly)
-✅ Drill down data using interactive slicers and filters
+---
 
-📊 Dashboard Features
-📌 Feature	🔍 Description
-KPI Cards	Real-time view of key performance indicators
-Bar Chart	Compare sales/margins by product or category
-Line Chart	Visualize revenue trends across time periods
-Pie Chart	Breakdown of sales/revenue share
-Matrix/Table	Detailed view of product-level performance
-Slicers	Filter data dynamically by product/date/region
+## 🚀 Project Overview
 
-🧰 Tools & Technologies Used
-Power BI Desktop
+This Power BI dashboard helps users:
 
-Power Query Editor – Data cleaning & transformation
+- 📌 Track **Total Sales**, **Revenue**, **Margin**, and **Orders**
+- 📈 Monitor **monthly trends** in sales and revenue
+- 🎯 Identify **high-margin** and **top-selling products**
+- 🧭 Use interactive **slicers** for region, category, or date
+- 🔍 Make fast, data-driven decisions using clear visuals
 
-DAX (Data Analysis Expressions) – Calculated measures
+---
 
-Excel Sample Sales Data – (From Kaggle or mock data)
+## 📷 Dashboard Preview
 
-📁 What's Inside This Repository
-Sales_Dashboard.pbix – Full Power BI Dashboard
+![Sales Dashboard](dashboard.png)
 
-dashboard.png – Image preview of the dashboard
+---
 
-sales_data.xlsx – (Optional sample dataset if uploaded)
+## 📌 Features at a Glance
 
-README.md – Project documentation and usage guide
+| ✅ Feature          | 💡 Purpose                                           |
+|---------------------|------------------------------------------------------|
+| KPI Cards           | Show quick metrics: Sales, Revenue, Margin, Orders   |
+| Bar Chart           | Compare revenue/margin across products or categories |
+| Line Chart          | View monthly revenue trends                          |
+| Pie/Donut Chart     | See revenue contribution by product or region        |
+| Matrix/Table        | Breakdown by product details                         |
+| Slicers & Filters   | Interact with the dashboard dynamically              |
 
-💼 Perfect For:
-Business Analysts – Showcase your Power BI skills
+---
 
-Sales Teams – Monitor performance & make decisions
+## 🛠 Tools & Technologies
 
-Students/Learners – Practice real-world dashboards
+- **Power BI Desktop**
+- **Power Query Editor** – Data cleaning and shaping
+- **DAX** – Custom calculated measures and KPIs
+- **Excel** – Source sales data (from Kaggle or mock)
 
-Hiring Managers – Evaluate dashboard capabilities in one look
+---
 
-🧠 Why This Matters
-Power BI dashboards are essential for making data-driven decisions. This project showcases:
+## 🗂 Files in This Repository
 
-End-to-end dashboard creation
+- `Sales_Dashboard.pbix` – Main Power BI project file  
+- `dashboard.png` – Dashboard preview image  
+- `sales_data.xlsx` – (Optional) sample dataset  
+- `README.md` – Full project documentation
 
-Real-time visual reporting
+---
 
-Clean user interface with actionable insights
+## 👨‍💼 Who Should Use This?
 
-👤 Created By
-Naveen Ojha
-📎 LinkedIn • 💻 GitHub
+This project is perfect for:
+
+- 📊 Business Analysts showcasing Power BI skills
+- 📈 Sales teams tracking performance & profitability
+- 🎓 Learners and students practicing Power BI dashboards
+- 🧪 Recruiters evaluating portfolio-ready visual projects
+
+---
+
+## 📘 How to Use
+
+1. Download or clone this repository
+2. Open `Sales_Dashboard.pbix` in **Power BI Desktop**
+3. Connect data if needed (optional for Excel users)
+4. Explore KPIs, visuals, and apply filters
+5. Customize as per your use case
+
+---
+
+## 👤 Author
+
+**Naveen Ojha**  
+🔗 [LinkedIn](#) • 💻 [GitHub](#)
+
+---
+
+> 📢 _This project uses sample/mock sales data for demonstration only._  
+> 🪪 Consider adding a license like **MIT** if you want others to reuse it.
+
